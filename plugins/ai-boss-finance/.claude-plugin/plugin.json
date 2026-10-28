@@ -1,0 +1,13 @@
+{
+  "name": "ai-boss-finance",
+  "version": "0.1.0",
+  "description": "AI Boss Society Finance Assistant: a guided setup, then weekly money checks, monthly and quarterly profit and loss statements, unpaid-invoice tracking, estimated-tax reminders, and a tax-ready accountant packet. Read-only with money; never pays, moves, or files anything.",
+  "author": {
+    "name": "Shevelle McPherson, Esq.",
+    "email": "info@shevellemcpherson.com"
+  },
+  "homepage": "https://github.com/shevellemc111/ai-boss-society-vipmembers",
+  "repository": "https://github.com/shevellemc111/ai-boss-society-vipmembers",
+  "license": "SEE LICENSE IN LICENSE",
+  "keywords": ["ai-boss-society", "finance", "profit-and-loss", "bookkeeping", "ai-employees"]
+}
