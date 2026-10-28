@@ -1,0 +1,18 @@
+{
+  "name": "ai-boss-members-vip",
+  "owner": {
+    "name": "Shevelle McPherson, Esq.",
+    "email": "info@shevellemcpherson.com"
+  },
+  "metadata": {
+    "description": "Members-only AI employees and skills from The AI Boss Society VIP by Shevelle McPherson."
+  },
+  "plugins": [
+    {
+      "name": "ai-boss-finance",
+      "source": "./plugins/ai-boss-finance",
+      "description": "AI Finance Assistant: weekly money checks, monthly and quarterly profit and loss statements, unpaid invoices, estimated-tax reminders, and a tax-ready accountant packet.",
+      "version": "0.1.0"
+    }
+  ]
+}
