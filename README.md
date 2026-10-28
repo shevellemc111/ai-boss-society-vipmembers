@@ -5,7 +5,7 @@ Members-only AI employees and skills from **The AI Boss Society** by Shevelle Mc
 ## Install (Claude desktop app → Cowork)
 
 1. Open **Customize** in the sidebar, then **Plugins**.
-2. Choose **Add marketplace** and paste: `shevellemc111/ai-boss-members-vip`
+2. Choose **Add marketplace** and paste: `shevellemc111/ai-boss-society-vipmembers`
 3. Find the plugin you want (for example **ai-boss-finance**) and click **Install**.
 
 When new AI employees are added or improved, open the marketplace and click **Update**.
